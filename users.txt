@@ -1,6 +1,6 @@
-BrunoASM,gayviado,10-08-2019,7VX5glmAFGnWMVAvFhhthA==,OK
-joaozitotp,hittscare64,10-08-2019,dEbKYDd8OHtAnnOtwU38jw==,OK
-dumal,gayviado,10-08-2019,PBy/cpI4KmopM3PPADyJ5w==,OK
-dinhox,gayviado,10-08-2019,M0e9bpzbV4OLnCbrO9T3ng==,OK
-PxT,Gps12345,10-08-2019,nJv2KkpA00jJ8FxIpraJ48T419E3gnR61gNDMBUvuEs=,OK
-PH,gayviado,11-08-2019,PAzQ9vPYqro69q4cddrpCw==,OK
+BrunoASM,gayviado,10-08-2019,7VX5glmAFGnWMVAvFhhthA==,OK
+joaozitotp,hittscare64,10-08-2019,dEbKYDd8OHtAnnOtwU38jw==,OK
+dumal,gayviado,10-08-2019,PBy/cpI4KmopM3PPADyJ5w==,OK
+dinhox,gayviado,10-08-2019,M0e9bpzbV4OLnCbrO9T3ng==,OK
+PxT,Gps12345,10-08-2019,nJv2KkpA00jJ8FxIpraJ48T419E3gnR61gNDMBUvuEs=,OK
+PH,gayviado,11-08-2019,PAzQ9vPYqro69q4cddrpCw==,OK
